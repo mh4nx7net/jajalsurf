@@ -4,18 +4,16 @@
 
 package main
 
-import {
-	"fmt",
-	"math"
+{
+"fmt",
+"math"
 }
-
-
 type geometri interface {
 	// initialize type of identified function *later
 	// kumpulan signature/kontrak/teken dari metode(yang telah dipesan)
 	// collection of method signature
 
-	luas() float64 // aria() sebagai method atau didalam interface disebut contract/fungsi yang diteken
+	luas() float64     // aria() sebagai method atau didalam interface disebut contract/fungsi yang diteken
 	keliling() float64 // float64 sebagai return value atau tipe data yang berlaku
 }
 
@@ -23,18 +21,18 @@ type persegi struct {
 	width, height float64
 }
 
-type lingkaran struct{
+type lingkaran struct {
 	radius float64
 }
 
-func(c circle) luas() float64{
+func (c circle) luas() float64 {
 	return math.Pi * c.radius * c.radius
 }
-func(c circle) keliling() float64{
-	return 2*math.Pi * c.
+func (c circle) keliling() float64 {
+	return 2 * math.Pi * c.
 }
 
-func measure(g geometry){
+func measure(g geometry) {
 	// melakukan beberapa return
 	// atau job kalkulasi
 	fmt.Println(g)
@@ -42,14 +40,14 @@ func measure(g geometry){
 	fmt.Println(g.perim())
 }
 
-func main(){
+func main() {
 	// inisialisasi nilai
 	r := rect{
-		width:3,
-		height:4
+		width:  3,
+		height: 4,
 	}
 	c := circle{
-		radius: 5
+		radius: 5,
 	}
 
 	// fungsi yang dipanggil

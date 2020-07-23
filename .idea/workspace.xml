@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="510c8c39-a3f1-4204-b7bf-a4f2fc9e6c9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jajalsurf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oke.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.theia/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.mutable-imutable-data-types.go" beforeDir="false" afterPath="$PROJECT_DIR$/18.mutable-imutable-data-types.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.pointer-derefrence-operator.go" beforeDir="false" afterPath="$PROJECT_DIR$/19.pointer-derefrence-operator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/34.struct-method.go" beforeDir="false" afterPath="$PROJECT_DIR$/34.struct-method.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35.interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/35.interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/36.interface-empty.go" beforeDir="false" afterPath="$PROJECT_DIR$/36.interface-empty.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37.nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/37.nil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/38.interface-error.go" beforeDir="false" afterPath="$PROJECT_DIR$/38.interface-error.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41.pointer-function.go" beforeDir="false" afterPath="$PROJECT_DIR$/41.pointer-function.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42.pointer-struct-function.go" beforeDir="false" afterPath="$PROJECT_DIR$/42.pointer-struct-function.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.variable.go" beforeDir="false" afterPath="$PROJECT_DIR$/6.variable.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boolean.go" beforeDir="false" afterPath="$PROJECT_DIR$/boolean.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booloperation.go" beforeDir="false" afterPath="$PROJECT_DIR$/booloperation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparisonOperator.go" beforeDir="false" afterPath="$PROJECT_DIR$/comparisonOperator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/constant.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion.go" beforeDir="false" afterPath="$PROJECT_DIR$/conversion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-with-example/forloop.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-with-example/forloop.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-with-example/if-else.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-with-example/if-else.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-with-example/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-with-example/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-with-example/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-with-example/struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-with-example/switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-with-example/switch.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathoperation.go" beforeDir="false" afterPath="$PROJECT_DIR$/mathoperation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiple.struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/multiple.struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number.go" beforeDir="false" afterPath="$PROJECT_DIR$/number.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optional-param.go" beforeDir="false" afterPath="$PROJECT_DIR$/optional-param.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string.go" beforeDir="false" afterPath="$PROJECT_DIR$/string.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typedeclaration.go" beforeDir="false" afterPath="$PROJECT_DIR$/typedeclaration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable.go" beforeDir="false" afterPath="$PROJECT_DIR$/variable.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1riH2xF7orvZctTA9qyhENvtqdd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build 19.pointer-derefrence-operator.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jajalsurf" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/19.pointer-derefrence-operator.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 19.pointer-derefrence-operator.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
