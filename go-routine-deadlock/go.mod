@@ -1,3 +1,3 @@
-module go-routine-deadlock
+module go-routine-deadlock/deadlock
 
 go 1.13

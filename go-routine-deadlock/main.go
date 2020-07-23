@@ -97,6 +97,7 @@ func deadlock_with_debuging() {
 	c := make(chan bool)
 	<-c
 }
+
 func checkCh() {
 
 	ch := make(chan int)
@@ -108,6 +109,7 @@ func checkCh() {
 		default:
 			log.Printf("1.default")
 		}
+
 		select {
 		case <-ch:
 			log.Printf("2.channel")
@@ -124,6 +126,7 @@ func checkCh() {
 	ch <- 1
 	time.Sleep(time.Second)
 }
+
 func main() {
 	// PENGENALAN / SIMPLE DEADLOCK
 	// UNCOMMENT CODE BELLOW TO SEE ALL DESCRIPTION BEHAVIOUR
