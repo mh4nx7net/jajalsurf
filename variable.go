@@ -36,4 +36,16 @@ func main(){
 	st_data := "re edit me below"
 	st_data = "here for editing above"
 	fmt.Println(st_data)
+
+	// variable multiple declaration
+	// it's use an array 
+	// an_obj(arg_ar1, arg_ar2, arg_etc)
+	// poc here, uncomment line below
+	// var(
+	// 	my1stName = "eko"
+	// 	my2ndName = "mulyadi"
+	// )
+	var (my1stName = "eko"
+	my2ndName = "mulyadi")
+	fmt.Println(my1stName, my2ndName)
 }
