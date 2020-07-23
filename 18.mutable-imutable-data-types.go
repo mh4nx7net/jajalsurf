@@ -1,8 +1,15 @@
 package main
 
 import "fmt"
-
+func changeFirst(slice []int){
+	slice[0]=1000
+}
 func main() {
+	var x []int = []int{3,4,5} //just create slice[]int on `mem-map`
+	fmt.Println(x) // pass that in to console
+	changeFirst(x) // dup `the value of` 1st x, pass to another `mem-map` bottom
+	fmt.Println(x) // here, by the mem addr. Actualy the 1st x and 2nd one are competely differ
+	
 	/*
 		// SLICES => mutable actualy. but...(can't add more length inside)
 		var x []int = []int{ // [] => denoted as slices, and followed by datatype's of slices
@@ -26,7 +33,7 @@ func main() {
 		fmt.Println(x,y)
 
 
-	*/
+	
 	// LIST => still mutable, but... (more friendly than two other's)
 	// and you can douplicate them on differ `map-memory`
 	// remember !! golang is datatype functional language
@@ -38,5 +45,7 @@ func main() {
 	y := x
 	y[2] = 8 // will duplicate/copy and change on differ `map-mem`
 	fmt.Println(x, y)
+	*/
+
 
 }
