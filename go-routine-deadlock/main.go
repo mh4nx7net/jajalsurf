@@ -139,6 +139,6 @@ func main() {
 	// wget -O trace.out http://localhost:6060/debug/pprof/trace?seconds=5
 	// go tool trace trace.out
 
-	checkCh()
+	// checkCh()
 
 }
